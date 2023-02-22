@@ -1,0 +1,7 @@
+.container{
+    background-color: chartreuse;
+    width: 75%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

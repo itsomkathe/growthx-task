@@ -1,0 +1,14 @@
+:root{
+    --color-bg-primary: #ffffff;
+    --color-bg-secondary: #f5f5f5;
+    --color-bg-accepted: #eaf7ee;
+    --color-bg-loop: #fde9ea;
+    --color-bg-badge: #fffae7;
+    --color-bg-button: #000000;
+    --color-bg-dropshadow: 0 3px 10px rgba(188, 188, 188, 0.2);
+    --color-bg-dropshadow-dark: 0 0px 4px rgba(0, 0, 0, 0.2);
+
+    --color-text-secondary: #787878;
+    --color-text-badge: #e4c74d;
+    
+}

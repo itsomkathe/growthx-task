@@ -1,0 +1,58 @@
+.container{
+    width: 18rem;
+    min-height: 30rem;
+    /* background-color: chartreuse; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imgWrapper{
+    width: 100%;
+    height: 15rem;
+}
+
+.imgWrapper img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.name{
+    font-size: 1.5rem;
+    margin-top: 0.8rem;
+}
+
+.location{
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+    text-transform: uppercase;
+    color: #5a5a5a;
+}
+
+.description{
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-top: 0.8rem;
+    color: #5a5a5a;
+}
+
+.skills{
+    margin-top: 0.8rem;
+    color: #5a5a5a;
+}
+
+.skills span{
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-right: 0.5rem;
+}
+
+.moreButton{
+    background: transparent;
+    border: 1.5px solid black;
+    width: 8rem;
+    padding: 0.5rem 0;
+    align-self: center;
+    margin-top: 1rem;
+}
